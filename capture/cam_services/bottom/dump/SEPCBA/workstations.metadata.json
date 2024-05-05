@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"c0bd8955bb3940f6acaf3149cefd0c5b","collectionName":"workstations","type":"collection"}

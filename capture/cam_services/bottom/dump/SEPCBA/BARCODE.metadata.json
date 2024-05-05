@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"195851339cc7428d92f24ef2d00ae0bb","collectionName":"BARCODE","type":"collection"}

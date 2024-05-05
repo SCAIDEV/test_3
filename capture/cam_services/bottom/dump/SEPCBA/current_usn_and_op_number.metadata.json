@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"2d2137595ccb4d60add2926bc04c9ecc","collectionName":"current_usn_and_op_number","type":"collection"}
